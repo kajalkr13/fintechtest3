@@ -1,0 +1,1 @@
+print("we are inthe era of AI")
